@@ -1,0 +1,19 @@
+{
+  "name": "أسامة النجار",
+  "role": "مطور واجهات ويب | مصمم جرافيك | تسويق رقمي",
+  "short_about": "أمزج بين التقنية والفن لصناعة تجارب رقمية أنيقة وسهلة.",
+  "tagline": "أحوّل الأفكار إلى منتجات رقمية محبوبة.",
+  "email": "youremail@example.com",
+  "phone": "0100000000",
+  "location": "القاهرة - مصر",
+  "links": {
+    "github": "https://github.com/your",
+    "linkedin": "https://www.linkedin.com/in/your",
+    "behance": "https://www.behance.net/your"
+  },
+  "offerings": [
+    { "title": "تطوير واجهات ويب", "desc": "أداء عالٍ وتجربة استخدام سلسة." },
+    { "title": "تصميم جرافيك", "desc": "هويات بصرية متناسقة تدعم أهدافك." },
+    { "title": "تسويق رقمي", "desc": "محتوى مدروس وتحويلات أفضل." }
+  ]
+}

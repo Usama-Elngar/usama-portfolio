@@ -1,0 +1,35 @@
+[
+  {
+    "title": "موقع شخصي (Massively معدل)",
+    "summary": "تحويل قالب جاهز إلى بورتفوليو ديناميكي متعدد الأقسام.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "image": "public/images/projects/p1.jpg",
+    "demo": "#",
+    "repo": "#"
+  },
+  {
+    "title": "مدونة ووردبريس",
+    "summary": "تهيئة قالب، تحسين الأداء وإعداد SEO أساسي.",
+    "tech": [
+      "WordPress"
+    ],
+    "image": "public/images/projects/p2.jpg",
+    "demo": "#",
+    "repo": "#"
+  },
+  {
+    "title": "حملة سوشيال",
+    "summary": "تصميم ونشر محتوى مرئي لزيادة الوعي.",
+    "tech": [
+      "Design",
+      "Marketing"
+    ],
+    "image": "public/images/projects/p3.jpg",
+    "demo": "#",
+    "repo": "#"
+  }
+]

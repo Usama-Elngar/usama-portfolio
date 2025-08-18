@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <!-- تم تحديث هيكلة المشروع: CSS و JS داخل src/ و الصور داخل public/images/ -->
+  <!-- رجاءً استخدام المسارات الجديدة عند إضافة أي ملفات جديدة للحفاظ على التنظيم -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Usama Elngar</title>
+
+  <!-- خطوط قريبة من ستايل Massively -->
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="src/css/styles.css" />
+</head>
+<body>
+  <!-- ===== الهيدر ===== -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <!-- الشعار والاسم -->
+      <div class="brand">
+        <span class="logo">U</span>
+        <div class="brand-text">
+          <h1 id="profile-name">أسامة النجار</h1>
+          <p id="profile-role">مبرمج متوسط المستوى أسعى للتطور</p>
+        </div>
+      </div>
+
+      <!-- القائمة الرئيسية -->
+      <nav class="site-nav" aria-label="التنقل الرئيسي">
+        <a href="#/" data-route="home" class="nav-link" id="nav-home">الرئيسية</a>
+        <a href="#/about" data-route="about" class="nav-link" id="nav-about">تعارف</a>
+        <a href="#/skills" data-route="skills" class="nav-link" id="nav-skills">المهارات</a>
+        <a href="#/projects" data-route="projects" class="nav-link" id="nav-projects">المشاريع</a>
+        <a href="#/articles" data-route="articles" class="nav-link" id="nav-articles">المقالات</a>
+        <a href="#/contact" data-route="contact" class="nav-link" id="nav-contact">تواصل</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== المحتوى الرئيسي ===== -->
+  <main id="app" class="container">
+    <!-- المحتوى الديناميكي هيظهر هنا -->
+  </main>
+
+  <!-- ===== الفوتر ===== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div id="social-links" class="social"></div>
+      <small>© <span id="year"></span> 
+        <span id="profile-name-foot">أسامة النجار</span>. 
+        كل الحقوق محفوظة.
+      </small>
+    </div>
+  </footer>
+
+  <!-- ملف الجافاسكربت -->
+  <script src="src/js/app.js"></script>
+</body>
+</html>

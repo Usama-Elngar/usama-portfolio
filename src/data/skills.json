@@ -1,0 +1,11 @@
+{
+  "technical": [
+    { "name": "HTML / CSS / JS", "level": 85, "tags": ["Responsive", "RTL"] },
+    { "name": "WordPress", "level": 80, "tags": ["Themes", "SEO Basics"] },
+    { "name": "Python", "level": 60, "tags": ["Automation"] },
+    { "name": "C#", "level": 50, "tags": ["Basics"] },
+    { "name": "Graphic Design", "level": 80, "tags": ["Branding", "Social"] }
+    ],
+  "soft": ["التواصل", "إدارة الوقت", "حل المشكلات", "التفكير التحليلي"],
+  "tools": ["Figma", "Adobe Photoshop", "Illustrator", "VS Code", "Git/GitHub"]
+}

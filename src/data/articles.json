@@ -1,0 +1,20 @@
+[
+  {
+    "title": "رحلتي نحو البرمجة",
+    "excerpt": "كيف انتقلت من التصميم والتسويق إلى عالم الكود.",
+    "image": "public/images/articles/a1.jpg",
+    "url": "#"
+  },
+  {
+    "title": "تجربة تعديل Massively",
+    "excerpt": "أبرز التحديات وكيف جعلته RTL وبألواني.",
+    "image": "public/images/articles/a2.jpg",
+    "url": "#"
+  },
+  {
+    "title": "نصائح بورتفوليو احترافي",
+    "excerpt": "كيف تبني صفحة تعرض مهاراتك بذكاء.",
+    "image": "public/images/articles/a3.jpg",
+    "url": "#"
+  }
+]
